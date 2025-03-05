@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
   "name": "clg-backend",
   "version": "1.0.0",
@@ -25,31 +24,3 @@
     "path": "^0.12.7"
   }
 }
-=======
-{
-  "name": "clg-backend",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "dependencies": {
-    "axios": "^1.8.1",
-    "cloudinary": "^1.41.3",
-    "dotenv": "^16.4.7",
-    "ejs": "^3.1.10",
-    "express": "^4.21.2",
-    "fs": "^0.0.1-security",
-    "multer": "^1.4.5-lts.1",
-    "multer-storage-cloudinary": "^4.0.0",
-    "nodemon": "^3.1.9",
-    "path": "^0.12.7"
-  }
-}
->>>>>>> 931d7b5e2a5b2a2d9415bbd4cc3ce1a1195ce450
